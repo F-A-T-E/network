@@ -1,4 +1,4 @@
-package tcpUdp;
+package com.tcpUdp;
 
 import java.net.InetAddress;
 import java.net.InetSocketAddress;

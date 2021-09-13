@@ -1,4 +1,4 @@
-package tcpUdp.tst03;
+package com.tcpUdp.tst03;
 
 import java.io.Serializable;
 

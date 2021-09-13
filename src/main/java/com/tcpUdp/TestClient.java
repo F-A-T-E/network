@@ -1,4 +1,4 @@
-package tcpUdp;
+package com.tcpUdp;
 
 import java.io.DataInputStream;
 import java.io.DataOutputStream;

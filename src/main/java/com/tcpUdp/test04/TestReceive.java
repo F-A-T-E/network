@@ -1,4 +1,4 @@
-package tcpUdp.test04;
+package com.tcpUdp.test04;
 
 import java.io.IOException;
 import java.net.DatagramPacket;
