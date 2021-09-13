@@ -7,7 +7,8 @@ import java.net.InetAddress;
 import java.net.SocketException;
 import java.util.Scanner;
 
-public class TestReceive {//接收方
+public class TestReceive {
+//接收方
 
 	public static void main(String[] args) {
 		System.out.println("老师上线了。。。。");
