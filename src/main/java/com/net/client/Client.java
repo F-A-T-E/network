@@ -5,6 +5,9 @@ import java.io.IOException;
 import java.io.OutputStream;
 import java.net.Socket;
 
+/**
+ *
+ */
 public class Client {
 	public static void main(String[] args) throws IOException {
 //		创建socket对象，其实是开启实现io的虚拟接口（此接口不是java中的接口，而是类似网线的插槽）
